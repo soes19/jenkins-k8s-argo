@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: soes19/myweb:3
+        image: soes19/myweb:4
         ports:
         - containerPort: 8080
